@@ -9,6 +9,8 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=stealclub21&show_icons=true&theme=gruvbox"/>
 </a>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 alig="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stealclub21&layout=compact&theme=gruvbox"/>
+</a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stealclub21&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
