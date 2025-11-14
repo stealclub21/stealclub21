@@ -10,7 +10,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 alig="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stealclub21&layout=compact&theme=gruvbox"/>
+  <img height=500 alig="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stealclub21&layout=compact&theme=gruvbox"/>
 </a>
 
 
