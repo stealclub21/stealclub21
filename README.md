@@ -6,7 +6,8 @@
 - **Other**: Scrum, Agile, Collaboration, OOP, Clean Code
 
 <a href="https://github-readme-stats.vercel.app/api?username=stealclub21&show_icons=true&theme=gruvbox">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=stealclub21&show_icons=true&theme=gruvbox"\><\a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=stealclub21&show_icons=true&theme=gruvbox"/>
+</a>
 
 
 
