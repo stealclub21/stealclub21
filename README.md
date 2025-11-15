@@ -6,7 +6,7 @@
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=stealclub21&theme=gruvbox&show_icons=true&hide_border=true&layout=compact">
 <img height=200 align="center" src="![stealclub21's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stealclub21&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)"/>
-<a/>
+</a>
 
 <a href="https://github-readme-stats.vercel.app">
   <img height=200 align="center" src="![stealclub21's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stealclub21&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)"/>
