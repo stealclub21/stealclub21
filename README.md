@@ -4,9 +4,9 @@
 - **Other**: Scrum, Collaboration, OOP, Clean Code, Postman
 - 📫How to reach me: bartok.botond21@gmail.com
 
-
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=stealclub21&theme=gruvbox&show_icons=true&hide_border=true&layout=compact">
 <img height=200 align="center" src="![stealclub21's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stealclub21&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)"/>
-
+<a/>
 
 <img height=200 align="center" src="![stealclub21's Streak](https://github-readme-streak-stats.herokuapp.com/?user=stealclub21&theme=gruvbox&hide_border=true)"/>
 
