@@ -4,4 +4,4 @@
 - **Other**: Scrum, Collaboration, OOP, Clean Code, Postman
 - 📫How to reach me: bartok.botond21@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stealclub21&show_icons=true)
