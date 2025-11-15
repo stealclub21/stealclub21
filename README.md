@@ -7,7 +7,8 @@
 
 
 ![stealclub21's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stealclub21&theme=slateorange&show_icons=true&hide_border=false&layout=compact)
-![stealclub21's Stats](https://github-readme-stats.vercel.app/api?username=stealclub21&theme=slateorange&show_icons=true&hide_border=false&count_private=true)  
+![stealclub21's Stats](https://github-readme-stats.vercel.app/api?username=stealclub21&theme=slateorange&show_icons=true&hide_border=false&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
 <!--
 ![stealclub21's Streak](https://github-readme-streak-stats.herokuapp.com/?user=stealclub21&theme=gruvbox&hide_border=true)
 -->
